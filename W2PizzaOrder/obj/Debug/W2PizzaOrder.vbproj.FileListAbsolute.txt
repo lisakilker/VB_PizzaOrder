@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\bin\Debug\W2PizzaOrder.exe.config
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\bin\Debug\W2PizzaOrder.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\bin\Debug\W2PizzaOrder.pdb
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\bin\Debug\W2PizzaOrder.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\obj\Debug\W2PizzaOrder.frmPizzaSelection.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\obj\Debug\W2PizzaOrder.Resources.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\obj\Debug\W2PizzaOrder.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\obj\Debug\W2PizzaOrder.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\obj\Debug\W2PizzaOrder.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\W2PizzaOrder\W2PizzaOrder\obj\Debug\W2PizzaOrder.pdb
